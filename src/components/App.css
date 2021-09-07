@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+

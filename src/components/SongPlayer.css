@@ -1,0 +1,55 @@
+
+.SongPlayer {
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px  10px 20px;
+  background-color: darkslateblue;
+  color: lightgreen;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+.SongPlayer img {
+  margin: 10px auto 20px;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+  }
+  
+.SongPlayer button {
+  padding: 10px;
+  margin: 0 10px;
+  border-radius: 20px;
+  border-style: none;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: lightgreen;
+  cursor: pointer;
+  }
+  
+.PlayButton {
+  width: 50px;
+}
+
+.PauseButton {
+  width: 50px;
+}
+
+.PlayButton:hover {
+  background-color: blueviolet;
+}
+
+.PauseButton:hover {
+  background-color: blueviolet;
+}
+
+.PrevButton:hover {
+  background-color: blueviolet;
+}
+
+.NextButton:hover {
+  background-color: blueviolet;
+}
+

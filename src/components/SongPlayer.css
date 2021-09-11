@@ -30,11 +30,11 @@
   }
   
 .PlayButton {
-  width: 50px;
+  width: 80px;
 }
 
 .PauseButton {
-  width: 50px;
+  width: 80px;
 }
 
 .PlayButton:hover {
